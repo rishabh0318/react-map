@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Mumbai, Maharashtra"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "7024077873"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "Rishabhgiri7024@gmail.com"
+    }
+  ]
